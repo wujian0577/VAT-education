@@ -1,0 +1,5 @@
+{
+  "name": "China VAT supply chain visualizer",
+  "description": "An interactive educational tool designed to help students understand the mechanics of China's Value-Added Tax (VAT) through a visualized supply chain simulation, from production to final consumption.",
+  "requestFramePermissions": []
+}
